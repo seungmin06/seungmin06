@@ -65,6 +65,6 @@
 
 <div align = 'center'>
   <!-- 인스타그램 -->
-<a href="https://www.instagram.com/yun0_531/" target="_blank"><img src="https://img.shields.io/badge/tistory-ffffff?style=for-the-badge&logo=tistory&logoColor=000000"></a>
+<a href="https://ysm811295.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-ffffff?style=for-the-badge&logo=tistory&logoColor=000000"></a>
 
 </div>
