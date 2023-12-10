@@ -1,7 +1,9 @@
 <div align = 'center'>
   
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=0:fff1eb,100:ace0f9&height=250&section=header&text=Seung_min&fontColor=363636&fontSize=60&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=SEMYEONG&nbsp;COMPUTER&nbsp;HIGH&nbsp;SCHOOL&descAlignY=65)
+![17b594d3215cde24](https://github.com/seungmin06/seungmin06/assets/127867905/7499e562-dcb7-4dae-b3e7-a6a8732829e8)
   </div>
+
+
   
   
   <h2 align = 'center'>
