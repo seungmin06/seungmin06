@@ -7,10 +7,6 @@
   <h2 align = 'center'>
     Hi, i'm Borzoi lover
   </h2>
-
-  <p>
-    <img src='https://i1.ruliweb.com/ori/21/08/18/17b594d3215cde24.mp4?gif'>
-  </p>
   
   <!-- 기술 -->
   
