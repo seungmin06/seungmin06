@@ -6,9 +6,9 @@
 
   
   
-  <h2 align = 'center'>
+  <h1 align = 'center'>
     Hi, i'm Borzoi lover
-  </h2>
+  </h1>
   
   <!-- 기술 -->
   
